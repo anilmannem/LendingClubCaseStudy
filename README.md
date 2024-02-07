@@ -3,7 +3,7 @@
 This case study aims to develop a fundamental understanding of risk analytics in banking and financial services. The goal is to explore how data is utilized to minimize the risk of financial losses when lending to customers. The study follows a structured analysis approach, encompassing various steps from data cleaning to correlation matrix exploration.
 
 ## Steps:
-### Step 1: Data Cleaning**
+### Step 1: Data Cleaning
 In the initial step, data cleaning procedures were implemented to ensure the quality and integrity of the dataset.
 Columns with a significant percentage of missing values and those providing limited value were removed.
 Data types were appropriately converted, and derived variables were introduced for deeper analysis.
