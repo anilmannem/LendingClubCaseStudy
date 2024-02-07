@@ -8,7 +8,7 @@ In the initial step, data cleaning procedures were implemented to ensure the qua
 Columns with a significant percentage of missing values and those providing limited value were removed.
 Data types were appropriately converted, and derived variables were introduced for deeper analysis.
 
-### Step 2: Univariate Analysis**
+### Step 2: Univariate Analysis
 Univariate analysis was conducted to understand the distribution and characteristics of individual variables.
 Key features such as loan amount, funded amount, approved loan amount ratio, interest rate, and loan status were examined.
 Visualizations, including box plots and histograms, were utilized to provide insights into the data.
